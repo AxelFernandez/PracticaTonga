@@ -1,1 +1,28 @@
-{ "Repo": "Nuevo" }
+{ 
+    "Banda":{
+        "Nombre": "Luna Bonzai",
+        "Integrantes" : "Cuatro",
+        "Instrumentos": "Cuatro"
+
+
+    },
+
+    "Integrantes": [
+        {
+        "Voz y guitarra":"Fer Sandoval",
+        "Bajo": "Matias Olivares",
+        "Teclas":"Acelito Fernandez",
+        "Bateria": "Tonga"
+        }
+    ]
+
+
+
+
+
+
+}
+
+
+
+
